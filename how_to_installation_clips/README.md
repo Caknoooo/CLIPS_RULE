@@ -1,6 +1,7 @@
 # How to installation CLIPS into Terminal 
 
-- Open Browser ``https://sourceforge.net/projects/clipsrules/files/CLIPS/6.30/``
+- Open Browser
+- Go to [Download CLIPS](https://sourceforge.net/projects/clipsrules/files/CLIPS/6.30/)
 - Download file ``.msi`` 
 
 
@@ -11,7 +12,9 @@
 **For Mac**
 ![image](https://github.com/Caknoooo/CLIPS_RULE/assets/92671053/9445aeeb-8c47-4d76-8b25-d73ae5bdbf07)
 
-- Just Follow the default 
+
+- Just Follow the default
+
 ![image](https://github.com/Caknoooo/CLIPS_RULE/assets/92671053/967b5082-cf8c-44b9-b691-5a4c7b4d729c)
 
 ![image](https://github.com/Caknoooo/CLIPS_RULE/assets/92671053/fec1b329-9f24-4a98-9aa6-cc0edeb312f5)
@@ -33,17 +36,21 @@
 - Open Visual Studio Code
 - Go to extension
 - Search Clips to Search Bar
+
 ![image](https://github.com/Caknoooo/CLIPS_RULE/assets/92671053/b908e3f7-4b42-44eb-aa9e-86e9e58f3c81)
 
 - Make sure the extension is as follow (CLIPS by Alejandro Gómez)
+
 ![image](https://github.com/Caknoooo/CLIPS_RULE/assets/92671053/e758b429-cd8c-4f5f-ad6d-2defa79906ce)
 
-- Open Settings extension on:
+- Open Settings Extension on:
+
 ![image](https://github.com/Caknoooo/CLIPS_RULE/assets/92671053/b2b5c3d2-213d-432a-a315-ddb993ac15ad)
 
 ![image](https://github.com/Caknoooo/CLIPS_RULE/assets/92671053/2cc65a0f-c46b-49f1-afb8-0e8f3557b275)
 
 - The following is an example of the settings that I have done
+
 ![image](https://github.com/Caknoooo/CLIPS_RULE/assets/92671053/f813a349-14c0-4b31-ad18-6e09232636af)
 
 - Save and Close
